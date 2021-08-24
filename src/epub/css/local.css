@@ -1,2 +1,82 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+dfn,
+q{
+	font-style: italic;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+table{
+	margin: 1em auto;
+}
+
+th{
+	text-align: left;
+}
+
+th:first-child,
+td:first-child{
+	padding-right: 3em;
+}
+
+[epub|type~="z3998:song"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:song"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:song"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:song"] p > span + br{
+	display: none;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:salutation"],
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: initial;
+	text-indent: 0;
+}
+
+#afterword ul{
+	columns: 2;
+	list-style-type: none;
+	padding: 0;
+	margin: 1em;
+}
+
+#afterword ul:nth-of-type(3) li,
+#afterword ul:nth-of-type(4) li{
+	text-align: center;
+}
+
+#afterword ul:nth-of-type(3) li:last-child,
+#afterword ul:nth-of-type(4) li:last-child{
+	column-span: all;
+}
