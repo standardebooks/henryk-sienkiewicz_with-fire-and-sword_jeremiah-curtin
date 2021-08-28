@@ -18,7 +18,7 @@ table{
 }
 
 th{
-	text-align: left;
+	text-align: initial;
 }
 
 th:first-child,
@@ -30,10 +30,6 @@ td:first-child{
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
-}
-
-[epub|type~="z3998:song"] p + p{
-	margin-top: 1em;
 }
 
 [epub|type~="z3998:song"] p > span,
@@ -61,6 +57,10 @@ p span.i2{
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+[epub|type~="z3998:salutation"] + p{
+	text-indent: 0;
 }
 
 [epub|type~="z3998:postscript"]{
