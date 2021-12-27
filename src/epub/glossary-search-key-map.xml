@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
+	<search-key-group href="text/afterword.xhtml#balalaika">
+		<match value="balalaika">
+			<value value="balalaikas"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/afterword.xhtml#castellan">
+		<match value="castellan">
+			<value value="castellans"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/afterword.xhtml#chambul">
+		<match value="chambul">
+			<value value="chambuls"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/afterword.xhtml#koshevoi">
+		<match value="koshevoi"/>
+	</search-key-group>
+	<search-key-group href="text/afterword.xhtml#kuren">
+		<match value="kuren">
+			<value value="kurens"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/afterword.xhtml#sotnik">
+		<match value="sotnik">
+			<value value="sotniks"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/afterword.xhtml#stanitsa">
+		<match value="stanitsa">
+			<value value="stanitsas"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/afterword.xhtml#starosta">
+		<match value="starosta">
+			<value value="Starosta"/>
+			<value value="starostas"/>
+			<value value="starostaship"/>
+			<value value="starostaships"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/afterword.xhtml#starshini">
+		<match value="starshini"/>
+	</search-key-group>
+	<search-key-group href="text/afterword.xhtml#telega">
+		<match value="telega">
+			<value value="telegas"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/afterword.xhtml#teorban">
+		<match value="teorban">
+			<value value="teorbans"/>
+			<value value="teorbanists"/>
+		</match>
+	</search-key-group>
+	<search-key-group href="text/afterword.xhtml#voevoda">
+		<match value="voevoda">
+			<value value="Voevoda"/>
+			<value value="voevodas"/>
+			<value value="voevodaships"/>
+			<value value="voevodstvos"/>
+		</match>
+	</search-key-group>
+</search-key-map>
