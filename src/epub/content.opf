@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henryk-sienkiewicz/with-fire-and-sword/jeremiah-curtin</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-12-30T03:59:38Z</dc:date>
+		<meta property="dcterms:modified">2021-12-30T03:59:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -20,7 +20,6 @@
 		<meta property="schema:accessMode">textual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
-		<meta property="schema:accessibilityFeature">longDescription</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -43,20 +42,20 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">Trilogy</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A Cossack uprising in 17th century Poland threatens the entire Commonwealth.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Goodwill in the seventeenth century Polish Commonwealth has been stretched thin due to perceived and real oppression of the less well-off members by the nobility. When the situation reaches its inevitable breaking point, it sparks the taking up of arms by the Cossacks against the Polish nobility and a spiral of violence that engulfs the entire state. This background provides the canvas for vividly painted narratives of heroism and heartbreak of both the knights and hetmans swept up in the struggle.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz"&gt;Henryk Sienkiewicz&lt;/a&gt; had spent most of his adult life as a journalist and editor, but turned his attention back to historical fiction in an attempt to lift the spirits and imbue a sense of nationalism to the partitioned Poland of the nineteenth century. &lt;i&gt;With Fire and Sword&lt;/i&gt; is the first of &lt;a href="https://standardebooks.org/collections/trilogy"&gt;a trilogy of novels&lt;/a&gt; dealing with the events of the Khmelnytsky Uprising, and weaves fictional characters and events in among historical fact. While there is some contention about the relative fairness of the portrayal of Polish and Ukrainian belligerents, the novel certainly isn’t one-sided: all factions indulge in brutal violence in an attempt to sway the tide of war, and their grievances are clearly depicted.&lt;/p&gt;
+			&lt;p&gt;Goodwill in the seventeenth century Polish Commonwealth has been stretched thin due to the nobility’s perceived and real oppression of the less well-off members. When the situation reaches its inevitable breaking point, it sparks the taking up of arms by the Cossacks against the Polish nobility and a spiral of violence that engulfs the entire state. This background provides the canvas for vividly painted narratives of heroism and heartbreak of both the knights and the hetmans swept up in the struggle.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz"&gt;Henryk Sienkiewicz&lt;/a&gt; had spent most of his adult life as a journalist and editor, but turned his attention back to historical fiction in an attempt to lift the spirits and imbue a sense of nationalism to the partitioned Poland of the nineteenth century. &lt;i&gt;With Fire and Sword&lt;/i&gt; is the first of &lt;a href="https://standardebooks.org/collections/the-trilogy"&gt;a trilogy of novels&lt;/a&gt; dealing with the events of the Khmelnytsky Uprising, and weaves fictional characters and events in among historical fact. While there is some contention about the fairness of the portrayal of Polish and Ukrainian belligerents, the novel certainly isn’t one-sided: all factions indulge in brutal violence in an attempt to sway the tide of war, and their grievances are clearly depicted.&lt;/p&gt;
 			&lt;p&gt;The initial serialization and later publication of the novel proved hugely popular, and in Poland the Trilogy has remained so ever since. In 1999, the novel was the subject of Poland’s then most expensive film, following the previously filmed later books. This edition is based on the 1898 translation by Jeremiah Curtin, who also translated Sienkiewicz’s later (and perhaps more internationally recognized) &lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz/quo-vadis/jeremiah-curtin"&gt;&lt;i&gt;Quo Vadis&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37027</dc:source>
 		<dc:source>https://archive.org/details/withfireandswor05siengoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">303078</meta>
+		<meta property="se:reading-ease.flesch">71.24</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/With_Fire_and_Sword</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henryk-sienkiewicz_with-fire-and-sword_jeremiah-curtin</meta>
 		<dc:creator id="author">Henryk Sienkiewicz</dc:creator>
@@ -89,6 +88,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
