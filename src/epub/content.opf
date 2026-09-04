@@ -31,9 +31,9 @@
 		<dc:title id="title">With Fire and Sword</dc:title>
 		<meta property="file-as" refines="#title">With Fire and Sword</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
-		<dc:subject id="subject-2">Cossacks -- Poland -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Cossacks -- Ukraine -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Poland -- History -- John II Casimir, 1648-1668 -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Cossacks--Poland--Fiction</dc:subject>
+		<dc:subject id="subject-3">Cossacks--Ukraine--Fiction</dc:subject>
+		<dc:subject id="subject-4">Poland--History--John II Casimir, 1648-1668--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061165</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
